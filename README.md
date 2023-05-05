@@ -1,3 +1,4 @@
-# 2021-team-project1-backup
-2021년 2학기 팀프로젝트1 소스코드 백업
-5명의 팀원이 한학기동안 자바로 압축프로그램을 개발하였습니다.
+# Alzip Project Portfolio
+
+## Youtube
+[프로젝트 아키텍쳐 및 허프만 알고리즘 소개 (약 7분)](https://www.youtube.com/watch?v=21wzPrDZCqk)
