@@ -21,3 +21,10 @@
 
 Java, JavaGUI, Jave Build(Maven), Huffman Encoding, LZ77 Encoding
 
+
+### 프로젝트 역할
+
+저는 팀장을 맡아서 프로젝트를 진행하였습니다. 요구사항 작성, 일정 관리, 코드의 전체적인 설계, 빌드 및 배포 관리등을 맡았습니다
+
+
+
