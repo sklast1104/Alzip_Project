@@ -5,7 +5,7 @@
 
 [LZ77 알고리즘 소개 및 시간복잡도 분석 (약 9분)](https://www.youtube.com/watch?v=woR0gj9tdQc)
 
-[압축 프로그램 시연 (약 4분)](https://www.youtube.com/watch?v=XePezKhsy8M)
+[압축 프로그램 시연 (약 4분)](https://www.youtube.com/watch?v=8L9JDTOvzg0)
 
 ## 개요
 
